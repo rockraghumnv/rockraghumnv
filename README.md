@@ -2,9 +2,9 @@
 <h3 align="center">Welcome to my corner of the internet!</h3>
 
 <div align="center">
-    <img src="https://github.com/rockraghumnv//blob/main/path-to-your-image.png" alt="Banner or Illustration" width="600"/>
+    <img src="https://source.unsplash.com/1200x300/?technology,code" alt="Banner or Illustration" width="100%"/>
     <br/>
-    <img src="https://source.unsplash.com/1200x400/?technology,development" alt="Illustration for Profile" width="600"/>
+    <img src="https://source.unsplash.com/800x200/?developer,computer" alt="Illustration for Profile" width="100%"/>
 </div>
 
 ---
@@ -38,11 +38,15 @@
 ## 📂 Featured Projects
 
 ### 🚀 [Airline Management System](https://github.com/rockraghumnv/airline)
-![Airline Project Image](https://github.com/rockraghumnv/airline/blob/main/airline.jpeg)
+<div align="center">
+    <img src="https://github.com/rockraghumnv/airline/blob/main/airline.jpeg" alt="Airline Project Image" width="70%"/>
+</div>
 The **Airline Management System** is a web-based platform designed to streamline and automate airline operations. Built with Django for the backend and HTML, CSS, and JavaScript for the frontend, the project provides a seamless interface for managing flight operations, passenger bookings, and airline logistics.
 
 ### 🌌 [Flipkart Clone](https://github.com/rockraghumnv/Flipkart_clone)
-![Flipkart Project Image](https://github.com/[your-username]/[repo-name]/blob/main/path-to-your-image.png)
+<div align="center">
+    <img src="https://source.unsplash.com/800x400/?ecommerce,online-shopping" alt="Flipkart Clone Project" width="70%"/>
+</div>
 A Flipkart Clone is a full-stack web application mimicking the core functionalities of the popular e-commerce platform Flipkart. Built using Django for the backend, React.js for the frontend, and SQLite as the database.
 
 ---
