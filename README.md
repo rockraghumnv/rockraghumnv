@@ -41,11 +41,9 @@
 
 The **Airline Management System** is a web-based platform designed to streamline and automate airline operations. Built with Django for the backend and HTML, CSS, and JavaScript for the frontend, the project provides a seamless interface for managing flight operations, passenger bookings, and airline logistics.
 
-### 🌌 [Flipkart Clone](https://github.com/rockraghumnv/Flipkart_clone)
-<!--<div align="center">
-    <img src="https://source.unsplash.com/800x400/?ecommerce,online-shopping" alt="Flipkart Clone Project" width="70%"/>
-</div> -->
-A Flipkart Clone is a full-stack web application mimicking the core functionalities of the popular e-commerce platform Flipkart. Built using Django for the backend, React.js for the frontend, and SQLite as the database.
+### 🌌AI Support Platform
+
+This project is a Django-based platform for managing support tickets, companies, and file uploads, with future integration for AI-powered support agents.
 
 ---
 
